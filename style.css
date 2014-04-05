@@ -2022,11 +2022,10 @@ a.post-thumbnail:hover {
 /* Secondary */
 
 #secondary {
-	background-color: #000;
-	border-top: 1px solid #000;
-	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+	background-color: #ffffff;
+	border-top: 1px solid #ffffff;
 	clear: both;
-	color: rgba(255, 255, 255, 0.7);
+	color: #000;
 	margin-top: -1px;
 	padding: 0 10px;
 	position: relative;
