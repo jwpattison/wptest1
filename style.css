@@ -802,6 +802,10 @@ span + .edit-link:before,
  * -----------------------------------------------------------------------------
  */
 
+#page {
+margin:0 auto;
+}
+
 .site {
 	background-color: #fff;
 	max-width: 1260px;
